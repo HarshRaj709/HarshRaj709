@@ -9,8 +9,7 @@
 </em></p>
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=HarshRaj709&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=HarshRaj709&no-bg=true&no-frame=true&column=4&theme=algolia)
+
 
 [![Linkedin: Harsh](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/harsh-sahuu/)
 [![GitHub Harsh](https://img.shields.io/github/followers/HarshRaj709?label=follow&style=social)](https://github.com/HarshRaj709)
